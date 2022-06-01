@@ -4,7 +4,7 @@
 * This project aimed to create CNN + LSTM models for 7 ranscription factors
 
 
-## The folder structure
+## Folder structure
 
 * SOY_models
   * WRKY
