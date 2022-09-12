@@ -27,4 +27,10 @@
   * bHLH
   * ERF
 
-
+* Each of the the TF directory has 3 directores.
+  * Train
+  Consist of training scripts and data.
+  * Models
+  The models are saved here by the script. However, you may have to update the paths in the training script.
+  * Prediction
+  Consist of prediction scripts 
